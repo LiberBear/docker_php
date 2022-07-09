@@ -1,4 +1,4 @@
-[submodule "my-tweeter"]
-	path = my-tweeter
+[submodule "project"]
+	path = project
 	url = git@github.com:korchevIvan/my-tweeter.git
 	branch = dev
