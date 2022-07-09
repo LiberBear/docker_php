@@ -1,0 +1,3 @@
+[submodule "my-tweeter"]
+	path = my-tweeter
+	url = git@github.com:korchevIvan/my-tweeter.git
